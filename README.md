@@ -196,5 +196,3 @@ A continuación se muestra una descripción detallada de los comandos más impor
      ```bash
      sudo passwd usuario
      ```
-
-
