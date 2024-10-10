@@ -182,3 +182,17 @@ A continuación se muestra una descripción detallada de los comandos más impor
      ```bash
      git log --oneline --graph
      ```
+
+### 11. **`Cambiar de usuario`**
+   - **Descripción**: Permite cambiar entre los distintos usuarios que se encuentran en el contenedor. 
+      - **Uso**:
+     ```bash
+     su - usuario
+     ```
+    
+### 12. **`Actualizar contraseña del usuario`**
+   - **Descripción**: Permite cambiar entre la contraseña del usuario que se encuentran en el contenedor. 
+      - **Uso**:
+     ```bash
+     sudo passwd usuario
+     ```
